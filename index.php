@@ -1,4 +1,4 @@
-<?php require("header.php") ?>
+<?php require("/page/header.php") ?>
     <div id=header>
         <div id=title>
             <ul class="left">
@@ -11,4 +11,4 @@
             </ul>
         </div>
     </div>
-<?php require("footer.php") ?>
+<?php require("/page/footer.php") ?>
