@@ -9,6 +9,8 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <link rel="shortcut icon" href="img/favicon.png"/>
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://music.holzora.com/css/APlayer.min.css">
+    <link rel="stylesheet" href="css/player.css">
     <title>霍西佐拉</title>
 </head>
 <body>
@@ -26,11 +28,6 @@
         <div id=title>
             <ul class="right">
                 <li><span><a href="https://holzora.top/" target="_blank">导航</a></span></li>
-            </ul>
-        </div>
-        <div id=title>
-            <ul class="right">
-                <li><span><a href="https://music.holzora.com/" target="_blank">音乐</a></span></li>
             </ul>
         </div>
         <div id=title>
@@ -60,20 +57,24 @@
         </div>
     </div>
     <div id="main">
-        <div id=iy>
-            <div><a href="https://hitokoto.cn/" style="color:#979898;" target="_blank">一言：</a></div>
-            <span id="hitokoto"><a href="#" id="hitokoto_text" style="color: rgb(0,0,0);">:D 获取中...</a></span>
-	        <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
-        </div>
+        <div id="aplayer"></div>
     </div>
+    <!--
+    <div id=iy>
+        <div><a href="https://hitokoto.cn/" style="color:#979898;" target="_blank">一言：</a></div>
+        <span id="hitokoto"><a href="#" id="hitokoto_text" style="color: rgb(0,0,0);">:D 获取中...</a></span>
+	    <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+    </div>
+    -->
     <div id=footer>
-        <div id=icp>
             <span>互联网ICP备案：<a href="https://beian.miit.gov.cn/" target="_blank" style="color: #979898;">黔ICP备2021003160号-2</a></span>
-        </div>
-        <div id=time>
+            <span> | </span>
             <span id="runtime_span"></span>
-        </div>
     </div>
 <script src="js/main.js"></script>
+<script src="https://music.holzora.com/js/APlayer.min.js"></script>
+<script src="js/player.js"></script>
+
+
 </body>
 </html>
