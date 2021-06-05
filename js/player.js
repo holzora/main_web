@@ -17,7 +17,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 呼啸沙漠.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#ebd0c2'
         },
         {
@@ -25,7 +25,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 黄昏湖畔.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#46718b'
         },
         {
@@ -33,7 +33,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 勒克斯港.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#43718b'
         },
         {
@@ -41,7 +41,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 暮色雨林.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/am.lrc',
             theme: '#46318b'
         },
         {
@@ -49,7 +49,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 血色冰封.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/am.lrc',
             theme: '#36718b'
         },
         {
@@ -57,7 +57,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 遗忘废墟.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/am.lrc',
             theme: '#26718b'
         },
         {
@@ -65,7 +65,7 @@ const ap =  new APlayer({
             artist: 'Owl City',
             url: 'https://music.holzora.com/mp3/The Saltwater Room - Owl City.mp3',
             cover: 'https://music.holzora.com/img/trs.png',
-            lrc: 'https://music.holzora.com/lrc/The Saltwater Room - Owl City.lrc',
+            lrc: 'page/lrc/The Saltwater Room - Owl City.lrc',
             theme: '#26716b'
         },
         {
@@ -73,7 +73,7 @@ const ap =  new APlayer({
             artist: '大岛满',
             url: 'https://music.holzora.com/mp3/大岛满 - Patema Inverse.mp3',
             cover: 'https://music.holzora.com/img/pm.jpg',
-            lrc: 'https://music.holzora.com/lrc/大岛满 - Patema Inverse.lrc',
+            lrc: 'page/lrc/大岛满 - Patema Inverse.lrc',
             theme: '#D52B91'
         },
         {
@@ -81,7 +81,7 @@ const ap =  new APlayer({
             artist: 'う～み',
             url: 'https://music.holzora.com/mp3/う～み - 星の在り処.mp3',
             cover: 'https://music.holzora.com/img/xzsz.jpg',
-            lrc: 'https://music.holzora.com/lrc/う～み - 星の在り処.lrc',
+            lrc: 'page/lrc/う～み - 星の在り処.lrc',
             theme: '#FFD700'
         },
         {
@@ -89,7 +89,7 @@ const ap =  new APlayer({
             artist: 'S.E.N.S.',
             url: 'https://music.holzora.com/mp3/S.E.N.S. (神思者) - 2年目の春 (第2年的春天).mp3',
             cover: 'https://music.holzora.com/img/hxgsn.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#8B2500'
         },
         {
@@ -97,7 +97,7 @@ const ap =  new APlayer({
             artist: 'S.E.N.S.',
             url: 'https://music.holzora.com/mp3/S.E.N.S. (神思者) - Pearl White Story.mp3',
             cover: 'https://music.holzora.com/img/hxgsn.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#6E6E6E'
         },
         {
@@ -105,7 +105,7 @@ const ap =  new APlayer({
             artist: 'S.E.N.S.',
             url: 'https://music.holzora.com/mp3/S.E.N.S. (神思者) - 夜空.mp3',
             cover: 'https://music.holzora.com/img/hxgsn.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#EED2EE'
         },
         {
@@ -113,7 +113,7 @@ const ap =  new APlayer({
             artist: 'S.E.N.S.',
             url: 'https://music.holzora.com/mp3/S.E.N.S. (神思者) - 爽風.mp3',
             cover: 'https://music.holzora.com/img/hxgsn.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#CDAF95'
         },
         {
@@ -121,7 +121,7 @@ const ap =  new APlayer({
             artist: '塞壬唱片/二宮愛/DJ OKAWARI',
             url: 'https://music.holzora.com/mp3/塞壬唱片-MSR _ 二宮愛 _ DJ OKAWARI - Speed of Light.mp3',
             cover: 'https://music.holzora.com/img/sol.jpg',
-            lrc: 'https://music.holzora.com/lrc/塞壬唱片-MSR _ 二宮愛 _ DJ OKAWARI - Speed of Light.lrc',
+            lrc: 'page/lrc/塞壬唱片-MSR _ 二宮愛 _ DJ OKAWARI - Speed of Light.lrc',
             theme: '#9AFF9A'
         },
         {
@@ -129,7 +129,7 @@ const ap =  new APlayer({
             artist: '塞壬唱片',
             url: 'https://music.holzora.com/mp3/Till the Bell Tolls - 塞壬唱片.mp3',
             cover: 'https://music.holzora.com/img/ttbt.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#8B1A1A'
         },
         {
@@ -137,7 +137,7 @@ const ap =  new APlayer({
             artist: '塞壬唱片/田井中彩智',
             url: 'https://music.holzora.com/mp3/塞壬唱片-MSR _ 田井中彩智 - 秋绪.mp3',
             cover: 'https://music.holzora.com/img/qx.jpg',
-            lrc: 'https://music.holzora.com/lrc/塞壬唱片-MSR _ 田井中彩智 - 秋绪.lrc',
+            lrc: 'page/lrc/塞壬唱片-MSR _ 田井中彩智 - 秋绪.lrc',
             theme: '#43CD80'
         },
         {
@@ -145,7 +145,7 @@ const ap =  new APlayer({
             artist: '塞壬唱片/Alive Until Sunset',
             url: 'https://music.holzora.com/mp3/ALIVE - 塞壬唱片-MSR_Alive Until Sunset.mp3',
             cover: 'https://music.holzora.com/img/a.jpg',
-            lrc: 'https://music.holzora.com/lrc/ALIVE - 塞壬唱片-MSR_Alive Until Sunset.lrc',
+            lrc: 'page/lrc/ALIVE - 塞壬唱片-MSR_Alive Until Sunset.lrc',
             theme: '#1AE61A'
         },
         {
@@ -153,7 +153,7 @@ const ap =  new APlayer({
             artist: '塞壬唱片',
             url: 'https://music.holzora.com/mp3/Reversed Time - 塞壬唱片-MSR.mp3',
             cover: 'https://music.holzora.com/img/rt.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#2248DD'
         },
         {
@@ -161,7 +161,7 @@ const ap =  new APlayer({
             artist: '邓丽君',
             url: 'https://music.holzora.com/mp3/邓丽君 - 月亮代表我的心.ogg',
             cover: 'https://music.holzora.com/img/yldbwdx.jpg',
-            lrc: 'https://music.holzora.com/lrc/邓丽君 - 月亮代表我的心.lrc',
+            lrc: 'page/lrc/邓丽君 - 月亮代表我的心.lrc',
             theme: '#94E61A'
         },
         {
@@ -169,7 +169,7 @@ const ap =  new APlayer({
             artist: '侃侃',
             url: 'https://music.holzora.com/mp3/侃侃 - 滴答 (吉他版).mp3',
             cover: 'https://music.holzora.com/img/dd.jpg',
-            lrc: 'https://music.holzora.com/lrc/侃侃 - 滴答 (吉他版).lrc',
+            lrc: 'page/lrc/侃侃 - 滴答 (吉他版).lrc',
             theme: '#573CC4'
         },
         {
@@ -177,7 +177,7 @@ const ap =  new APlayer({
             artist: '徐良/阿悄',
             url: 'https://music.holzora.com/mp3/徐良 - 犯贱.mp3',
             cover: 'https://music.holzora.com/img/fj.jpg',
-            lrc: 'https://music.holzora.com/lrc/徐良 - 犯贱.lrc',
+            lrc: 'page/lrc/徐良 - 犯贱.lrc',
             theme: '#6F7691'
         },
         {
@@ -185,7 +185,7 @@ const ap =  new APlayer({
             artist: '潘玮柏/弦子',
             url: 'https://music.holzora.com/mp3/潘玮柏 _ 弦子 - 不得不爱.mp3',
             cover: 'https://music.holzora.com/img/bdba.jpg',
-            lrc: 'https://music.holzora.com/lrc/潘玮柏 _ 弦子 - 不得不爱.lrc',
+            lrc: 'page/lrc/潘玮柏 _ 弦子 - 不得不爱.lrc',
             theme: '#917D6F'
         },
         {
@@ -193,7 +193,7 @@ const ap =  new APlayer({
             artist: 'Various Artists/Nikki Simmons',
             url: 'https://music.holzora.com/mp3/Various Artists _ Nikki Simmons - Fireflies (Funk Fiction Remix).mp3',
             cover: 'https://music.holzora.com/img/ff.jpg',
-            lrc: 'https://music.holzora.com/lrc/Various Artists _ Nikki Simmons - Fireflies (Funk Fiction Remix).lrc',
+            lrc: 'page/lrc/Various Artists _ Nikki Simmons - Fireflies (Funk Fiction Remix).lrc',
             theme: '#FF0000'
         },
         {
@@ -201,7 +201,7 @@ const ap =  new APlayer({
             artist: '末廣健一郎',
             url: 'https://music.holzora.com/mp3/末廣健一郎 - 少女終末旅行 -Main Theme-.mp3',
             cover: 'https://music.holzora.com/img/snzmlx.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#006633'
         },
         {
@@ -209,7 +209,7 @@ const ap =  new APlayer({
             artist: '末廣健一郎',
             url: 'https://music.holzora.com/mp3/末廣健一郎 - 終ワリノ歌 (终结之歌).mp3',
             cover: 'https://music.holzora.com/img/snzmlx.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#CCCCFF'
         },
         {
@@ -217,7 +217,7 @@ const ap =  new APlayer({
             artist: '伍佰',
             url: 'https://music.holzora.com/mp3/伍佰 - 挪威的森林.mp3',
             cover: 'https://music.holzora.com/img/nwdsl.jpg',
-            lrc: 'https://music.holzora.com/lrc/伍佰 - 挪威的森林.lrc',
+            lrc: 'page/lrc/伍佰 - 挪威的森林.lrc',
             theme: '#FFFF66'
         },
         {
@@ -225,7 +225,7 @@ const ap =  new APlayer({
             artist: 'karuta',
             url: 'https://music.holzora.com/mp3/一番の宝物 (Original Version)-karuta.mp3',
             cover: 'https://music.holzora.com/img/ibntm.jpg',
-            lrc: 'https://music.holzora.com/lrc/一番の宝物 (Original Version)-karuta.lrc',
+            lrc: 'page/lrc/一番の宝物 (Original Version)-karuta.lrc',
             theme: '#CCCCCC'
         },
         {
@@ -233,7 +233,7 @@ const ap =  new APlayer({
             artist: 'Rikki',
             url: 'https://music.holzora.com/mp3/Rikki (中野律纪) - 素敌だね.mp3',
             cover: 'https://music.holzora.com/img/stkdn.jpg',
-            lrc: 'https://music.holzora.com/lrc/Rikki (中野律纪) - 素敌だね.lrc',
+            lrc: 'page/lrc/Rikki (中野律纪) - 素敌だね.lrc',
             theme: '#48D1CC'
         },
         {
@@ -241,7 +241,7 @@ const ap =  new APlayer({
             artist: '山田タマル',
             url: 'https://music.holzora.com/mp3/Scarborough Fair-山田タマル.mp3',
             cover: 'https://music.holzora.com/img/sf.jpg',
-            lrc: 'https://music.holzora.com/lrc/Scarborough Fair-山田タマル.lrc',
+            lrc: 'page/lrc/Scarborough Fair-山田タマル.lrc',
             theme: '#87CEFA'
         },
         {
@@ -249,7 +249,7 @@ const ap =  new APlayer({
             artist: '初音ミク/Mitchie M',
             url: 'https://music.holzora.com/mp3/ぶれないアイで-初音ミク,Mitchie M.mp3',
             cover: 'https://music.holzora.com/img/jdde.jpg',
-            lrc: 'https://music.holzora.com/lrc/ぶれないアイで-初音ミク,Mitchie M.lrc',
+            lrc: 'page/lrc/ぶれないアイで-初音ミク,Mitchie M.lrc',
             theme: '#FFD700'
         },
         {
@@ -257,7 +257,7 @@ const ap =  new APlayer({
             artist: 'Richard Clayderman',
             url: 'https://music.holzora.com/mp3/Richard Clayderman - 瓦妮莎的微笑.flac',
             cover: 'https://music.holzora.com/img/wnsdwx.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#blue'
         },
         {
@@ -265,7 +265,7 @@ const ap =  new APlayer({
             artist: 'Groove Coverage',
             url: 'https://music.holzora.com/mp3/Far Away from Home-Groove Coverage.mp3',
             cover: 'https://music.holzora.com/img/fafh.jpg',
-            lrc: 'https://music.holzora.com/lrc/Far Away from Home-Groove Coverage.lrc',
+            lrc: 'page/lrc/Far Away from Home-Groove Coverage.lrc',
             theme: '#green'
         },
         {
@@ -273,7 +273,7 @@ const ap =  new APlayer({
             artist: 'STEREO DIVE FOUNDATION',
             url: 'https://music.holzora.com/mp3/Daisy-STEREO DIVE FOUNDATION.mp3',
             cover: 'https://music.holzora.com/img/d.jpg',
-            lrc: 'https://music.holzora.com/lrc/Daisy-STEREO DIVE FOUNDATION.lrc',
+            lrc: 'page/lrc/Daisy-STEREO DIVE FOUNDATION.lrc',
             theme: '#yellow'
         },
         {
@@ -281,7 +281,7 @@ const ap =  new APlayer({
             artist: 'Masque_Jupiter',
             url: 'https://music.holzora.com/mp3/Masque_Jupiter - 亡灵序曲 (钢琴版).mp3',
             cover: 'https://music.holzora.com/img/wlxq.jpg',
-            lrc: 'https://music.holzora.com/lrc/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#white'
         }
     ]

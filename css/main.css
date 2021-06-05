@@ -2,10 +2,19 @@
     list-style: none;
 }
 
-a{
+a:link{
     text-decoration: none;
-    color: #0000FF;
+    color: #000000;
 }
+a:visited{
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+    text-decoration: none;
+    color: #0000ff;
+}
+
 
 body{
     width: 100%; 
