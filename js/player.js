@@ -257,32 +257,48 @@ const ap =  new APlayer({
             artist: 'Richard Clayderman',
             url: 'https://music.holzora.com/mp3/Richard Clayderman - 瓦妮莎的微笑.flac',
             cover: 'https://music.holzora.com/img/wnsdwx.jpg',
-            lrc: 'page/lrc/am.lrc',
-            theme: '#blue'
+            lrc: 'lrc/am.lrc',
+            theme: '#8EE5EE'
         },
         {
             name: 'Far Away from Home',
             artist: 'Groove Coverage',
             url: 'https://music.holzora.com/mp3/Far Away from Home-Groove Coverage.mp3',
             cover: 'https://music.holzora.com/img/fafh.jpg',
-            lrc: 'page/lrc/Far Away from Home-Groove Coverage.lrc',
-            theme: '#green'
+            lrc: 'lrc/Far Away from Home-Groove Coverage.lrc',
+            theme: '#8B0000'
         },
         {
             name: 'Daisy',
             artist: 'STEREO DIVE FOUNDATION',
             url: 'https://music.holzora.com/mp3/Daisy-STEREO DIVE FOUNDATION.mp3',
             cover: 'https://music.holzora.com/img/d.jpg',
-            lrc: 'page/lrc/Daisy-STEREO DIVE FOUNDATION.lrc',
-            theme: '#yellow'
+            lrc: 'lrc/Daisy-STEREO DIVE FOUNDATION.lrc',
+            theme: '#00EE76'
         },
         {
             name: '亡灵序曲',
             artist: 'Masque_Jupiter',
             url: 'https://music.holzora.com/mp3/Masque_Jupiter - 亡灵序曲 (钢琴版).mp3',
             cover: 'https://music.holzora.com/img/wlxq.jpg',
-            lrc: 'page/lrc/am.lrc',
-            theme: '#white'
+            lrc: 'lrc/am.lrc',
+            theme: '#00FFFF'
+        },
+        {
+            name: '柠檬',
+            artist: '游助',
+            url: 'https://music.holzora.com/mp3/遊助 - 檸檬.mp3',
+            cover: 'https://music.holzora.com/img/nm.jpg',
+            lrc: 'lrc/遊助 - 檸檬.lrc',
+            theme: '#BEBEBE'
+        },
+        {
+            name: '君に贈る詩',
+            artist: 'ダフ',
+            url: 'https://music.holzora.com/mp3/ダフ - 君に贈る詩.mp3',
+            cover: 'https://music.holzora.com/img/knyru.jpg',
+            lrc: 'lrc/ダフ - 君に贈る詩.lrc',
+            theme: '#D2691E'
         }
     ]
 });
