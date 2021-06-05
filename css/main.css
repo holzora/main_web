@@ -17,7 +17,6 @@ body{
     background: #fff;
     padding: 16px 1px 16px 1px;
     border-radius: 2px;
-    font-size: 20px;
     box-shadow: 0px 0px 6px #ddd;
     /* overflow: hidden; */
     text-overflow: ellipsis;
@@ -26,14 +25,16 @@ body{
 .left{
     float: left;
     position: relative;
-    left: 25px;
+    font-size: 20px;
+    left: 6.5%;
     top: -24px;
     }
 .right{
-    float: right;
+    float: left;
     position: relative;
-    right:60px;
-    top: -24px;
+    font-size: 18px;
+    left: 40%;
+    top: -20.5px;
     }
 
 #main{
