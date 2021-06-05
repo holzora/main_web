@@ -8,17 +8,19 @@ a{
 }
 
 body{
-    width:100%; 
-    height:100%;
+    width: 100%; 
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
 }
 
 #header{
     position: fixed;
-    z-index: 198;
     top: 0;
     right: 0;
     width: 100%;
-    height: 20px;
+    height: 30px;
     background: #fff;
     padding: 16px 1px 16px 1px;
     border-radius: 2px;
@@ -32,33 +34,38 @@ body{
     position: relative;
     font-size: 20px;
     left: 4.5%;
-    top: -24px;
+    top: -19px;
     }
 .right{
     float: left;
     position: relative;
     font-size: 18px;
     left: 30%;
-    top: -20.5px;
+    top: -15.6px;
     }
 
 #main{
     position: relative;
     top: 85px;
 }
+#iy{
+    position: fixed;
+    top: 40%;
+    right: 0;
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+}
 
 #footer{
-    position: relative;
-    top: 125.5px;
+    position: fixed;
+    right: 0;
+    top: 87%;
+    width: 100%;
+    height: 30px;
     padding: 20px 30px;
     border-top: 1px solid #ddd;
     font-size: 15px;
-    color: #FFf;
-    background-color: #f9f9f9;
-    }
-#time{
-    text-align: center;
-    }
-#runtime_span{
     color: #979898;
+    text-align: center;
     }
