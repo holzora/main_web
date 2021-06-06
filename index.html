@@ -8,8 +8,8 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <link rel="shortcut icon" href="img/favicon.png"/>
-    <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="https://music.holzora.com/css/APlayer.min.css">
+    <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/player.css">
     <title>霍西佐拉</title>
 </head>
@@ -52,18 +52,33 @@
         </div>
         <div id=title>
             <ul class="right">
-            <li><span id=myclock></span></li>
+            <li><span id="myclock"></span></li>
             </ul>
         </div>
+    </div>
+    <div class="header">
+        <div class="sp_header">
+            <div class="title"><a href="/"><span>霍西佐拉</span></a></div>
+            <div class="sp_nav"> <span></span> <span></span> <span></span> </div>
+          </div>
+          <div class="sjj_nav">
+            <ul>
+              <li><a href="https://holzora.top/">导航</a></li>
+              <li><a href="https://i.holzora.top/">博客</a></li>
+              <li><a href="https://tk.holzora.top/">图库</a></li>
+              <li><a href="https://nk.holzora.top/">云盘</a></li>
+              <li><a href="https://holzora.com/page/about.html/">关于本站</a></li>
+            </ul>
+          </div>
     </div>
     <div id="main">
         <div id="aplayer"></div>
     </div>
     <!--
     <div id=iy>
-        <div><a href="https://hitokoto.cn/" style="color:#979898;" target="_blank">一言：</a></div>
-        <span id="hitokoto"><a href="#" id="hitokoto_text" style="color: rgb(0,0,0);">:D 获取中...</a></span>
-	    <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+        
+        
+	    
     </div>
     -->
     <div id=footer>
@@ -71,10 +86,18 @@
             <span> | </span>
             <span id="runtime_span"></span>
     </div>
+    <div class="footer">
+        <div>
+            <a href="https://hitokoto.cn/" style="color:#979898;" target="_blank"><span id="hitokoto"><a href="#" id="hitokoto_text" style="color: rgb(0,0,0);"></a></span></a>
+        </div>
+        <div>
+            <span>互联网ICP备案：<a href="https://beian.miit.gov.cn/" target="_blank" style="color: #979898;">黔ICP备2021003160号-2</a></span>
+        </div>
+</div>
+<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+<script src="js/jquery.js"></script>
 <script src="js/main.js"></script>
 <script src="https://music.holzora.com/js/APlayer.min.js"></script>
 <script src="js/player.js"></script>
-
-
 </body>
 </html>

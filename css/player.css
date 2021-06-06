@@ -1,3 +1,35 @@
+@media (max-width: 400px){
+    #main{
+    width: 340px;
+    margin: 0 auto;
+     }
+    .aplayer .aplayer-list {
+    transition: all .5s ease;
+    will-change: height;
+    display: none;
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 385px;
+     }
+    .aplayer {
+    background: #fff;
+    font-family: Arial,Helvetica,sans-serif;
+    margin: 5px;
+    top: 68.5px;
+    right: 8px;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 7%), 0 1px 5px 0 rgb(0 0 0 / 10%);
+    border-radius: 5px;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    line-height: normal;
+    position: relative;
+     }
+    }
+
+@media (min-width: 700px){
 #main{
     position: relative;
     right: 0.5%;
@@ -203,3 +235,4 @@
     background   : #ededed;
     border-radius: 4px;
     }
+}
