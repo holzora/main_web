@@ -41,7 +41,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 暮色雨林.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'page/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#46318b'
         },
         {
@@ -49,7 +49,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 血色冰封.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'page/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#36718b'
         },
         {
@@ -57,7 +57,7 @@ const ap =  new APlayer({
             artist: 'Novasonic',
             url: 'https://music.holzora.com/mp3/Novasonic - 遗忘废墟.mp3',
             cover: 'https://music.holzora.com/img/cabal.jpg',
-            lrc: 'page/am.lrc',
+            lrc: 'page/lrc/am.lrc',
             theme: '#26718b'
         },
         {
