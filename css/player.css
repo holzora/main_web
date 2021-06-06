@@ -2,9 +2,9 @@
     #main{
     position: fixed;
     width: 340px;
-    right: 0;
+    right: 5px;
     margin: 0 auto;
-    top: -2px;
+    top: 1px;
      }
     .aplayer .aplayer-list {
     transition: all .5s ease;
