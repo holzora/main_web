@@ -1,6 +1,8 @@
 @media (max-width: 400px){
     #main{
+    position: fixed;
     width: 340px;
+    right: 10px;
     margin: 0 auto;
      }
     .aplayer .aplayer-list {
