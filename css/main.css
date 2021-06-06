@@ -163,7 +163,7 @@ body{
 .sp_nav_se span:nth-of-type(1){top:12px;transform:rotate(45deg)}
 .sp_nav_se span:nth-of-type(2){width:0;display: none;}
 .sp_nav_se span:nth-of-type(3){top:12px;transform:rotate(-45deg)}
-.sjj_nav{position:fixed;z-index:9;background:#eee;width:100%;height:calc(100% - 351px);font-size:14px;line-height:40px;top:-100%;left:0;overflow:hidden;transition:top ease 0.35s;}
+.sjj_nav{position:fixed;z-index:9;background:#eee;width:100%;height:calc(100% - 351.5px);font-size:14px;line-height:40px;top:-100%;left:0;overflow:hidden;transition:top ease 0.35s;}
 .nav_show{top:40px}
 .sjj_nav>ul>li:first-child{overflow:hidden;border-top:0}
 .sjj_nav>ul>li:first-child>a{width:calc(100% - 70px)}
