@@ -299,6 +299,14 @@ const ap =  new APlayer({
             cover: 'https://music.holzora.com/img/knyru.jpg',
             lrc: 'page/lrc/ダフ - 君に贈る詩.lrc',
             theme: '#D2691E'
+        },
+        {
+            name: '美人鱼',
+            artist: '林俊杰',
+            url: 'https://music.holzora.com/mp3/美人鱼 - 林俊杰.ogg',
+            cover: 'https://music.holzora.com/img/mry.jpg',
+            lrc: 'page/lrc/美人鱼 - 林俊杰.lrc',
+            theme: '#0000ff'
         }
     ]
 });
