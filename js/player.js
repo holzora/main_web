@@ -307,6 +307,14 @@ const ap =  new APlayer({
             cover: 'https://music.holzora.com/img/mry.jpg',
             lrc: 'page/lrc/美人鱼 - 林俊杰.lrc',
             theme: '#0000ff'
+        },
+        {
+            name: '圣痕',
+            artist: 'セイ',
+            url: 'https://music.holzora.com/mp3/Stigmata-Ceui.mp3',
+            cover: 'https://music.holzora.com/img/s.jpg',
+            lrc: 'page/lrc/Stigmata-Ceui.lrc',
+            theme: '#00FFFF'
         }
     ]
 });
