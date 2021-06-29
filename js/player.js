@@ -315,6 +315,22 @@ const ap =  new APlayer({
             cover: 'https://music.holzora.com/img/s.jpg',
             lrc: 'page/lrc/Stigmata-Ceui.lrc',
             theme: '#00FFFF'
+        },
+        {
+            name: 'Summer Fantasy',
+            artist: '傅许',
+            url: 'https://music.holzora.com/mp3/傅许 - Summer Fantasy.mp3',
+            cover: 'https://music.holzora.com/img/sf-2.jpg',
+            lrc: 'page/lrc/am.lrc',
+            theme: '#CD661D'
+        },
+        {
+            name: '遠く君へ',
+            artist: '東山奈央',
+            url: 'https://music.holzora.com/mp3/遠く君へ (bonus track)-東山奈央.mp3',
+            cover: 'https://music.holzora.com/img/tkkh.jpg',
+            lrc: 'page/lrc/遠く君へ (bonus track)-東山奈央.lrc',
+            theme: '#CAFF70'
         }
     ]
 });
