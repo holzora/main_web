@@ -139,14 +139,15 @@ body{
 .sp_logo img{margin:auto;
     max-height:30px;
     }
-.sp_nav{width:50px;
+.sp_nav{
+    width:35px;
     float:right;
     position:relative;
     cursor:pointer;
     height:30px;
     margin-top:15px;
-    right: 13px;
-    top: -15px;
+    right: 32px;
+    top: -12px;
     }
 .sp_nav span{
     display:block;
