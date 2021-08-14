@@ -331,6 +331,14 @@ const ap =  new APlayer({
             cover: 'https://music.holzora.com/img/tkkh.jpg',
             lrc: 'page/lrc/遠く君へ (bonus track)-東山奈央.lrc',
             theme: '#CAFF70'
+        },
+        {
+            name: '遠真夏のフォトグラフ',
+            artist: 'Azusa',
+            url: 'https://music.holzora.com/mp3/Azusa - 真夏のフォトグラフ.mp3',
+            cover: 'https://music.holzora.com/img/sxdzp.jpg',
+            lrc: 'page/lrc/Azusa - 真夏のフォトグラフ.lrc',
+            theme: '#ff4081'
         }
     ]
 });
