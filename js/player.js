@@ -333,7 +333,7 @@ const ap =  new APlayer({
             theme: '#CAFF70'
         },
         {
-            name: '遠真夏のフォトグラフ',
+            name: '真夏のフォトグラフ',
             artist: 'Azusa',
             url: 'https://music.holzora.com/mp3/Azusa - 真夏のフォトグラフ.mp3',
             cover: 'https://music.holzora.com/img/sxdzp.jpg',
